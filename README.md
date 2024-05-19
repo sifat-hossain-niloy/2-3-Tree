@@ -6,11 +6,6 @@ This repository contains an implementation of a 2-3 Tree data structure using C+
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Class Descriptions](#class-descriptions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -28,3 +23,4 @@ To use this implementation, clone the repository and compile the source code usi
 ```bash
 git clone https://github.com/sifat-hossain-niloy/2-3-tree.git
 cd 2-3-tree
+
